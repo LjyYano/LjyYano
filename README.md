@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 北京
 - 🌱 I’m currently learning `指数基金`
-- 📫 How to reach me: email(左侧有)
 
 [![Yano's github stats](https://github-readme-stats.vercel.app/api?username=LjyYano)](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LjyYano&show_icons=true)
