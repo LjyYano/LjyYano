@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on 北京
-- 🌱 I’m currently learning `健身`
+- 🌱 I’m currently learning `Java G1 GC`
 - ⚡ My plan in 2021：[Yano 的 2021 计划](https://www.notion.so/YANO-SPACE-2021-ff42bde7acd1467eb3ae63dc0d4a9f8c)
 
 [![Yano's github stats](https://github-readme-stats.vercel.app/api?username=LjyYano)](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
