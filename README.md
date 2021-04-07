@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 I'm playing: `Switch 游戏：异度神剑2`
 
 [![Yano's github stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=LjyYano&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
-[![Top Langs](https://github-readme-stats-izh7piylk.vercel.app/api/top-langs/?username=LjyYano&langs_count=2&card_width=495&bg_color=DEG,A65481,E66345&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/LjyYano/)
