@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 北京
 - 🌱 I’m currently learning `JVM 调优`
 - ⚡ My plan in 2021：[Yano 的 2021 计划](https://www.notion.so/YANO-SPACE-2021-ff42bde7acd1467eb3ae63dc0d4a9f8c)
-- 📫 I'm playing: `Switch 游戏：异度神剑2`
+- 📫 I'm playing: `Switch 游戏：正在寻找中……`
 
 [![Yano's github stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=LjyYano&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
