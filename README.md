@@ -1,6 +1,8 @@
 ### Hey there
 
-Hi，我是 Yano, 一个喜欢羽毛球、Switch 游戏的 passionate expert engineer。我的[博客园](https://www.cnblogs.com/510602159-Yano/)
+Hi，我是 Yano, 一个喜欢羽毛球、Switch 游戏的 passionate expert engineer。[博客园](https://www.cnblogs.com/510602159-Yano/)
+
+我最近的动态：
 
 - I’m currently working on 北京
 - I’m currently learning `Redis 源码`
