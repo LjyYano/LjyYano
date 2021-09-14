@@ -10,7 +10,7 @@
 [![Yano's github stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=LjyYano&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
 
 ## 🧰 Languages and Tools:
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="c++" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" height="40" style="vertical-align:top; margin:4px">
