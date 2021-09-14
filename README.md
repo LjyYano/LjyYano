@@ -1,9 +1,9 @@
 ### Hey there
 
 Hi，我是 Yano, 一个喜欢羽毛球、Switch 游戏、写[博客](https://www.cnblogs.com/510602159-Yano/)的 passionate expert engineer。我最近的动态：
+- My plan in 2021：[Yano 的 2021 计划](https://www.notion.so/YANO-SPACE-2021-ff42bde7acd1467eb3ae63dc0d4a9f8c)
 - I’m currently working on 北京
 - I’m currently learning `Redis 源码`
-- My plan in 2021：[Yano 的 2021 计划](https://www.notion.so/YANO-SPACE-2021-ff42bde7acd1467eb3ae63dc0d4a9f8c)
 - I'm playing: `Switch 死亡细胞`
 
 ### My GitHub Stats
