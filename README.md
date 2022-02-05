@@ -4,7 +4,7 @@ Hi，我是 Yano, 一个喜欢羽毛球、Switch 游戏、写[博客](https://ww
 - My plan in 2022：[Yano 的 2022 计划](https://www.notion.so/YANO-SPACE-2021-ff42bde7acd1467eb3ae63dc0d4a9f8c)
 - I’m currently working on 北京
 - I’m currently learning `Redis 源码`
-- I'm playing: `Switch 塞尔达旷野之息`
+- I'm playing: `Switch 哈迪斯`
 
 ### My GitHub Stats
 
