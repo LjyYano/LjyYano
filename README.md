@@ -5,7 +5,7 @@ Hi，我是 Yano, 一个喜欢羽毛球、Switch 游戏、写[博客](https://ww
 - I’m currently working on 北京
 - I’m currently reading `《夏日重现》漫画、《毛泽东传》`
 - I’m currently learning `Linux 网络`
-- I'm playing: `Switch《十三机兵防卫圈》`，自己整理的：[塞尔达旷野之息-全套装、全收集 截图](https://www.bilibili.com/read/cv15163066)
+- I'm playing: `期待 Switch《异度神剑 3》中！`，自己整理的：[塞尔达旷野之息-全套装、全收集 截图](https://www.bilibili.com/read/cv15163066)
 
 ### My GitHub Stats
 
