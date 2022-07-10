@@ -3,7 +3,7 @@
 Hi，我是 Yano, 一个喜欢羽毛球、Switch 游戏、写[博客](https://www.cnblogs.com/510602159-Yano/)的 passionate expert engineer。我最近的动态：
 - My plan in 2022：[Yano 的 2022 计划](https://www.notion.so/YANO-SPACE-2021-ff42bde7acd1467eb3ae63dc0d4a9f8c)
 - I’m currently working on 北京
-- I’m currently reading `《夏日重现》漫画、《毛泽东传》`
+- I’m currently reading ``
 - I’m currently learning `Linux 网络`
 - I'm playing: `期待 Switch《异度神剑 3》中！`，自己整理的：[塞尔达旷野之息-全套装、全收集 截图](https://www.bilibili.com/read/cv15163066)
 
