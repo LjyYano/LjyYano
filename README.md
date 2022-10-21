@@ -5,7 +5,7 @@ Hi，我是 Yano, 一个喜欢羽毛球、Switch 游戏、写[博客](https://ww
 - I’m currently working on 北京
 - I’m currently reading `《庄子》`
 - I’m currently learning `《RocketMQ 实战》`
-- I'm playing: `《炉石传说》`，自己整理的：[塞尔达旷野之息-全套装、全收集 截图](https://www.bilibili.com/read/cv15163066)
+- I'm playing: `《炉石传说》、女神异闻录 5 皇家版`，自己整理的：[塞尔达旷野之息-全套装、全收集 截图](https://www.bilibili.com/read/cv15163066)
 
 ### My GitHub Stats
 
