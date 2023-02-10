@@ -11,6 +11,8 @@ Hi，我是 Yano, 一个喜欢羽毛球、Switch 游戏、写[博客](https://ww
 
 [![Yano's github stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=LjyYano&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LjyYano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" height="40" style="vertical-align:top; margin:4px">
