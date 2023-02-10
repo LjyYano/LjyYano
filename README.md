@@ -1,4 +1,4 @@
-### Hey there
+### Hi there 👋
 
 Hi，我是 Yano, 一个喜欢羽毛球、Switch 游戏、写[博客](https://www.cnblogs.com/510602159-Yano/)的 passionate expert engineer。我最近的动态：
 - My plan in 2023：[Yano 的 2023 计划](https://yano-nankai.notion.site/Yano-Space-ff42bde7acd1467eb3ae63dc0d4a9f8c)
