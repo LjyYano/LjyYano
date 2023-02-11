@@ -7,8 +7,6 @@ Hi，我是 Yano, 一个喜欢羽毛球、Switch 游戏、写[博客](https://ww
 - I’m currently learning `RocketMQ 源码`
 - I'm playing: `Switch《八方旅人 2》`，自己整理的：[塞尔达旷野之息-全套装、全收集 截图](https://www.bilibili.com/read/cv15163066)
 
-### My GitHub Stats
-
 [![Yano's github stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=LjyYano&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LjyYano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
