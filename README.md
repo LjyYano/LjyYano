@@ -5,7 +5,7 @@ Hi，我是 Yano，一个喜欢羽毛球、Switch 游戏、写[公众号](https:
 - I’m currently working on 北京
 - I’m currently reading `None`
 - I’m currently learning `RocketMQ 源码`
-- I'm playing: `焦急等待《塞尔达 王国之泪》中`，自己整理的：[塞尔达旷野之息-全套装、全收集 截图](https://www.bilibili.com/read/cv15163066)
+- I'm playing: `《塞尔达 王国之泪》`，自己整理的：[塞尔达旷野之息-全套装、全收集 截图](https://www.bilibili.com/read/cv15163066)
 
 [![Yano's github stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=LjyYano&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
 
