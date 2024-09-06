@@ -5,7 +5,7 @@ Hi，我是 Yano，一个喜欢羽毛球、Switch 游戏、写[公众号](https:
 - I’m currently working on `北京`
 - I’m currently reading `《工作、消费主义和新穷人》`
 - I’m currently learning `Anki`
-- I'm playing: `《星露谷物语》、《杀戮尖塔》`，自己整理的：[塞尔达旷野之息-全套装、全收集 截图](https://www.bilibili.com/read/cv15163066)
+- I'm playing: `《杀戮尖塔》、《星露谷物语》`，自己整理的：[塞尔达旷野之息-全套装、全收集 截图](https://www.bilibili.com/read/cv15163066)
 
 [![Yano's github stats](https://github-readme-stats-izh7piylk.vercel.app/api?username=LjyYano&hide=prs,contribs&show_icons=true&bg_color=DEG,E66345,A65481&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/LjyYano/Thinking_in_Java_MindMapping)
 
