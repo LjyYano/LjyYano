@@ -21,9 +21,9 @@ My current focus areas include:
 
 ## Now
 
-- 🚀 Building: `OpenClaw` automation practices
+- 🚀 Building: skill-pack
 - 📚 Reading: `Errors of the Human Way` (《日月同错》)
-- 🎮 Playing: `Xenoblade 2`
+- 🎮 Playing: `《喷射战士 3》`
 - ✍️ Writing: engineering notes, AI learning logs, books & media reviews
 
 ## Featured Projects
