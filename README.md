@@ -22,7 +22,7 @@ My current focus areas include:
 ## Now
 
 - 🚀 Building: skill-pack
-- 📚 Reading: `Errors of the Human Way` (《日月同错》)
+- 📚 Reading: None
 - 🎮 Playing: `《喷射战士 3》`
 - ✍️ Writing: engineering notes, AI learning logs, books & media reviews
 
