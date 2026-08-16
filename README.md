@@ -21,9 +21,9 @@ My current focus areas include:
 
 ## Now
 
-- 🚀 Building: [![iOS APP Dayling](https://img.shields.io/badge/Download_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6785228944)
-- 📚 Reading: None
-- 🎮 Playing: 《怪物火车》
+- 🎬 Watching:《马里奥银河》大电影
+- 📚 Reading:育儿相关书籍
+- 🎮 Playing:《Monster Train》
 - ✍️ Writing: None
 
 ## Featured Projects
