@@ -21,9 +21,9 @@ My current focus areas include:
 
 ## Now
 
-- 🎬 Watching:《马里奥银河》大电影
-- 📚 Reading:育儿相关书籍
-- 🎮 Playing:《Monster Train》
+- 🎬 Watching:《魔鬼的计谋 3》
+- 📚 Reading:《PLOTO》
+- 🎮 Playing: None
 - ✍️ Writing: None
 
 ## Featured Projects
